@@ -5,8 +5,11 @@ taxonomy:
         - docs
 child_type: docs
 visible: true
+googletitle: 'Thaumcraft 6 - A Comprehensive Guide'
+googledesc: 'The Thaumcraft mods for Minecraft have been a favourite in the modding scene, and Thaumcraft 6 is still one of the most interesting and entertaining magic mods.'
 twitterenable: true
 twittercardoptions: summary
+twittertitle: 'Thaumcraft 6 - A Comprehensive Guide'
 facebookenable: false
 ---
 
