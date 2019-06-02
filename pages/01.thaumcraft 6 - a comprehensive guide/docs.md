@@ -23,6 +23,6 @@ Thaumcraft 6 is all about drawing magic from physical objects in the form of Ess
 **Sub Reddit**: https://www.reddit.com/r/Thaumcraft/  
 
 #### Mods Used
-**Thaumcraft**: [6.1.BETA26 ](https://minecraft.curseforge.com/projects/thaumcraft/) 
-**Thaumic Inventory Scanning**: [2.0.10 ](https://minecraft.curseforge.com/projects/thaumcraft-inventory-scanning) 
-**Thaumic JEI**: [1.2.4-9](https://minecraft.curseforge.com/projects/thaumic-jei)  
+**Thaumcraft**: [6.1.BETA26 ](https://minecraft.curseforge.com/projects/thaumcraft/)  
+**Thaumic Inventory Scanning**: [2.0.10 ](https://minecraft.curseforge.com/projects/thaumcraft-inventory-scanning)  
+**Thaumic JEI**: [1.2.4-9](https://minecraft.curseforge.com/projects/thaumic-jei)   
