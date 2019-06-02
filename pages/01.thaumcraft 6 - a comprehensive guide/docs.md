@@ -29,3 +29,11 @@ Thaumcraft 6 is all about drawing magic from physical objects in the form of Ess
 **Thaumcraft**: [6.1.BETA26 ](https://minecraft.curseforge.com/projects/thaumcraft/)  
 **Thaumic Inventory Scanning**: [2.0.10 ](https://minecraft.curseforge.com/projects/thaumcraft-inventory-scanning)  
 **Thaumic JEI**: [1.2.4-9](https://minecraft.curseforge.com/projects/thaumic-jei)   
+
+### Terminology 
+
+To help you understand what this guide talks about here is a list of words that are particular to this guide:
+
+**Stages** - This refers to each shape in the Thaumonomicon; these can be items or processes.
+
+**Tab** - In the Thaumonomicon, a section for each part of the mod such as Infusion or Golemancy.
