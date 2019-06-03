@@ -13,3 +13,4 @@ Vishrooms can be found in magical forests and when walked over will receive a na
 
 Vishrooms are currently not used for very much.
 
+![](Vishroom.jpg)
