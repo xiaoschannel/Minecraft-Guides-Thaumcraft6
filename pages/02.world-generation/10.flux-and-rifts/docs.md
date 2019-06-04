@@ -1,6 +1,6 @@
 ---
 title: 'Flux & Rifts'
-media_order: 'flux rift.jpg'
+media_order: 'flux rift.jpg,flux crystals.jpg'
 taxonomy:
     category:
         - docs
@@ -34,5 +34,7 @@ In order to close rifts you will need a Causality Collapser but for now if you d
 >>>You can stabilize rifts with a Stabilizer, but it creates flux.
 
 If there are crystal clusters growing in the fluxed area, there is a chance they can turn into Flux Crystals. This process consumes a little bit of flux from the aura during this process.
+
+![](flux%20crystals.jpg)
 
 Flux can be evenly distributed between two chunks (maybe even 3) by placing the essentia smelter directly in the corner of a chunk and putting Auxiliary Venting Ports directly next to the chunk-border. The Flux will be calculated in the Chunk to the output of the Auxiliary Venting Port. This helps to let the Flux be minimized per chunk.
