@@ -26,7 +26,7 @@ Here is a list of all the aspects and what items they are found in (the easiest 
 
 | | |
 |--|--|
-|Alienis - Vacuos + Tenebrae|Mortuus - Aqua + Pereditio|
+|**Alienis** - Vacuos + Tenebrae|Mortuus - Aqua + Pereditio|
 |Alkimia - Praecantatio + Aqua|Motus - Aer + Ordo|
 |Auram - Praecantatio + Aer|Permutatio - Ordo + Perditio|
 |Aversio - Spiritus + Perditio|Potentia - Ordo + Ignis|
