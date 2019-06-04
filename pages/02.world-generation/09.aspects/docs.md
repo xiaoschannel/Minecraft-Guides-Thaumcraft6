@@ -14,7 +14,7 @@ In total there are 37 aspects. In the world of Thaumcraft everything is made up 
 Here is a list of all the aspects and what items they are found in (the easiest way to find aspects):
 
 ### Primal Aspects
-||
+| | |
 |--|--|
 |Alienis - Vacuos + Tenebrae|Mortuus - Aqua + Pereditio|
 |Alkimia - Praecantatio + Aqua|Motus - Aer + Ordo|
