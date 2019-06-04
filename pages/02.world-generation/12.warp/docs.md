@@ -1,6 +1,6 @@
 ---
 title: Warp
-media_order: warp.jpg
+media_order: 'warp.jpg,Sun Scorned.jpg,Unnatural Hunger.jpg'
 taxonomy:
     category:
         - docs
@@ -24,3 +24,8 @@ With warp come some side effects:
 
 **Sun Scorned IV** - Every thing is very bright
 
+![](Sun%20Scorned.jpg)
+
+**Unnatural Hunger IV** - Everything becomes dark and you are VERY hungry
+
+![](Unnatural%20Hunger.jpg)
