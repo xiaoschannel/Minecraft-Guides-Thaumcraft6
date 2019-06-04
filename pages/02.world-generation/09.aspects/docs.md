@@ -26,22 +26,22 @@ Here is a list of all the aspects and what items they are found in (the easiest 
 
 | | |
 |--|--|
-|**Alienis** - Vacuos + Tenebrae|Mortuus - Aqua + Pereditio|
-|Alkimia - Praecantatio + Aqua|Motus - Aer + Ordo|
-|Auram - Praecantatio + Aer|Permutatio - Ordo + Perditio|
-|Aversio - Spiritus + Perditio|Potentia - Ordo + Ignis|
-|Bestia - Motus + Victus|Praecantatio - Potentia + Aer|
-|Cognitio - Ignis + Spiritus|Praemunio - Spiritus + Terra|
-|Desiderium - Spiritus + Vacuos|Sensus - Aer + Spiritus|
-|Exanimis - Motus + Mortuus|Spiritus - Victus + Mortuus|
-|Fabrico - Permutatio + Instrumentum|Tenebrae - Vacuos + Lux|
-|Gelum - Ignis + Perditio|Vacuos - Aer + Perditio|
-|Herba - Victus + Terra|Victus - Terra + Aqua (Poppy)|
-|Humanus - Spiritus + Victus|Vinculum - Motus + Perditio|
-|Instrumentum - Metallum + Potentia|Vitium - Perditio + Praecantatio|
-|Lux - Aer + Ignis|Vitreus - Terra + Aer (Diamond)|
-|Machina - Motus + Instrumentum|Volatus - Aer + Motus	|
-|Metallum - Terra + Ordo||
+|**Alienis** - Vacuos + Tenebrae|**Mortuus** - Aqua + Pereditio|
+|**Alkimia** - Praecantatio + Aqua|**Motus** - Aer + Ordo|
+|**Auram** - Praecantatio + Aer|**Permutatio** - Ordo + Perditio|
+|**Aversio** - Spiritus + Perditio|**Potentia** - Ordo + Ignis|
+|**Bestia** - Motus + Victus|**Praecantatio** - Potentia + Aer|
+|**Cognitio** - Ignis + Spiritus|**Praemunio** - Spiritus + Terra|
+|**Desiderium** - Spiritus + Vacuos|**Sensus** - Aer + Spiritus|
+|**Exanimis** - Motus + Mortuus|**Spiritus** - Victus + Mortuus|
+|**Fabrico** - Permutatio + Instrumentum|**Tenebrae** - Vacuos + Lux|
+|**Gelum** - Ignis + Perditio|**Vacuos** - Aer + Perditio|
+|**Herba** - Victus + Terra|**Victus** - Terra + Aqua (Poppy)|
+|**Humanus** - Spiritus + Victus|**Vinculum** - Motus + Perditio|
+|**Instrumentum** - Metallum + Potentia|**Vitium** - Perditio + Praecantatio|
+|**Lux** - Aer + Ignis|**Vitreus** - Terra + Aer (Diamond)|
+|**Machina** - Motus + Instrumentum|**Volatus** - Aer + Motus	|
+|**Metallum** - Terra + Ordo||
 
 ### Aspect Sources
 These aspects can be found in all Vanilla and Thaumcraft items, most mods have too but there are some mods that will not have any aspects. The list below will tell what items will give you what aspect from vanilla items:
