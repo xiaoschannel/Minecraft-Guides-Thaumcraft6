@@ -13,7 +13,6 @@ facebookenable: false
 Above the Fields tab you will be able to see the Aspects of Essentia you have discovered via scanning and their combinations. Scanning more will help you find new types and the combinations for them: 
 
 ![](aspects.jpg)
-[Aspect Sources (/r/thaumcraft)
 <a href="https://www.reddit.com/r/Thaumcraft/comments/8gtfak/sources_of_essentia_mega_guide_tc6/"><p style="text-align:center">[Aspect Sources (/r/thaumcraft)</a>
 
 
