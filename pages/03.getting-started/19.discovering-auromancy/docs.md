@@ -16,4 +16,12 @@ This next section is an easy section to complete but has more than one part. Onc
 
 Once this part is completed you will then be asked to craft two more items (Vis Resonator and Caster's Gauntlet) in your Workbench. The recipes can be found in the Thaumonomicon:
 
-![The Vis Resonator recipe is shapeless](Vis%20Resonator.jpg)
+![](Vis%20Resonator.jpg)
+
+The Vis Resonator recipe is shapeless
+
+![](Caster's%20Gauntlet.jpg)
+
+If you don't have enough Vis to craft these items you’ll have to move the Workbench to another chunk or let it recharge.
+
+Completing this section will give you access to a new Tab: Auromancy (this will be covered later).
