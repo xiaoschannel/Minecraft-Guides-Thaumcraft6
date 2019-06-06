@@ -24,4 +24,4 @@ The Crucible will allow you to insert items, break them down to their aspects an
 
 In order for the Crucible to work it will need to be filled with water and have a heat source below it. You can use fire, lava, magma, or later nitor.  To insert items into the crucible you can either drop them in or right-click them onto the Crucible while in hand. Later, using Goggles of Revealing will give you the ability to tell which aspects are currently in the crucible. Be careful not to right click the water with an item as you _will_ lose it.
 
->>>>>PLEASE ENSURE THE CRUCIBLE IS IN A SAFE AREA. ACCIDENTS DO HAPPEN AND ITEMS WILL BE LOST IN THE CRUCIBLE.
+>>>>PLEASE ENSURE THE CRUCIBLE IS IN A SAFE AREA. ACCIDENTS DO HAPPEN AND ITEMS WILL BE LOST IN THE CRUCIBLE.
