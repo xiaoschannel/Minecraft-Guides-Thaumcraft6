@@ -92,3 +92,7 @@ Once you have completed the last stage of Discovering Alchemy, a new tab will op
 
 Looking in this section and clicking “Basic Alchemy” will unlock more options about Alchemy and a lot more in this section of the Thaumonomicon:
 
+![](alchemy%20tab.jpg)
+
+Since we now have access to the Alchemy tab, it’s a good idea to start some very basic Alchemy so we can advance the first section of the Thaumonomicon.
+
