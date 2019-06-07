@@ -1,5 +1,6 @@
 ---
 title: Fundamentals
+media_order: 'flux clean up set up 1.jpg,flux clean up set up 2.jpg,Essentia Filter blocked.jpg'
 taxonomy:
     category:
         - docs
@@ -51,3 +52,13 @@ _“The lattice cannot be attached any old way however:
 4) It may appear that a single unbroken line of lattices would be the best configuration, but occasionally the filter in a lattice piece becomes clogged and unusable. All lattice pieces after the clogged one will no longer aid the conversion speed, though they will still add to the cost. The filter can be replaced by clicking on the clogged lattice piece with a fresh one.”_
 
 The best configuration for this is as follows:
+
+![](flux%20clean%20up%20set%20up%201.jpg)
+
+![](flux%20clean%20up%20set%20up%202.jpg)
+
+Just remember that this process can take a while and you will need to right click the lattice  with a Essentia Filter when it gets blocked:
+
+![](Essentia%20Filter%20blocked.jpg)
+
+If this is left unmaintained the efficiency of this will take a hit and could also stop working altogether.
