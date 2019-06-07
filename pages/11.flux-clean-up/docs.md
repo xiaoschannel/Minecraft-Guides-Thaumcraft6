@@ -1,5 +1,6 @@
 ---
 title: 'Flux Clean up'
+media_order: 'Essentia Filter blocked.jpg,flux clean up set up 1.jpg,flux clean up set up 2.jpg'
 taxonomy:
     category:
         - docs
@@ -26,4 +27,12 @@ _“The lattice cannot be attached any old way however:
 
 The best configuration for this is as follows:
 
+![](flux%20clean%20up%20set%20up%201.jpg)
 
+![](Essentia%20Filter%20blocked.jpg)
+
+Just remember that this process can take a while and you will need to right click the lattice  with a Essentia Filter when it gets blocked:
+
+![](flux%20clean%20up%20set%20up%202.jpg)
+
+If this is left unmaintained the efficiency of this will take a hit and could also stop working altogether.
