@@ -1,6 +1,5 @@
 ---
 title: Fundamentals
-media_order: 'flux clean up set up 1.jpg,flux clean up set up 2.jpg,Essentia Filter blocked.jpg'
 taxonomy:
     category:
         - docs
