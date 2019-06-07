@@ -1,5 +1,5 @@
 ---
-title: 'Flux 2'
+title: 'Flux Rifts'
 taxonomy:
     category:
         - docs
@@ -9,4 +9,4 @@ twittercardoptions: summary
 facebookenable: false
 ---
 
-Unlocked by scanning Flux clouds after releasing large amounts of Essentia from a cauldron.
+This can be unlocked by scanning a Rift
