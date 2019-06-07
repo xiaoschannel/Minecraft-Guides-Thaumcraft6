@@ -62,3 +62,8 @@ Just remember that this process can take a while and you will need to right clic
 ![](Essentia%20Filter%20blocked.jpg)
 
 If this is left unmaintained the efficiency of this will take a hit and could also stop working altogether.
+
+### Closing Flux Rifts/Primordial Pearls
+
+Now that you have scanned rifts you are probably wondering how to close these to stop them from getting out of control. Luckily there is a way but the infusion recipe has Very High Instability, the basic idea behind this is to blow the rift up so it closes:
+
