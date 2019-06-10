@@ -1,6 +1,6 @@
 ---
 title: 'Focal Manipulator'
-media_order: 'Casters Gauntlet.jpg,Focal Manipulator.jpg,Focal Manipulator example.jpg,Focal Manipulator example 2.jpg,Casters Gauntlet holding.jpg,Casters Gauntlet shift.jpg'
+media_order: 'Casters Gauntlet.jpg,Focal Manipulator.jpg,Focal Manipulator example.jpg,Focal Manipulator example 2.jpg,Casters Gauntlet holding.jpg,Casters Gauntlet shift.jpg,test fire.jpg'
 taxonomy:
     category:
         - docs
@@ -44,4 +44,7 @@ Once you have selected it you will see the top left of your screen has a red cir
 
 If you used the touch medium, you can right click to spew some fire at a range of 4 blocks.
 
+![](test%20fire.jpg)
+
+If you spam this it will slowly use all the Vis in the area. You can redo your focus by inserting into the Focal Manipulator. You can set it to not burn if you want to avoid forest fires.
 
