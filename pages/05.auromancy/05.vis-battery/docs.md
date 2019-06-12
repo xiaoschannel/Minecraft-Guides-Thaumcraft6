@@ -1,5 +1,6 @@
 ---
 title: 'Vis Battery'
+media_order: 'vis-battery-empty.jpg,vis-battery-full.jpg'
 taxonomy:
     category:
         - docs
@@ -15,3 +16,6 @@ These batteries will slowly store vis (up to 10) and in turn that vis can be rel
 
 The cube will slowly go more and more blue as more and more vis is stored in the battery:
 
+![](vis-battery-empty.jpg)
+
+![](vis-battery-full.jpg)
