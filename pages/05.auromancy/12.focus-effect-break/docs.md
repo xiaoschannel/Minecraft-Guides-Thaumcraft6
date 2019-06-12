@@ -1,5 +1,6 @@
 ---
 title: 'Focus Effect: Break'
+media_order: 'focus effect break.jpg'
 taxonomy:
     category:
         - docs
@@ -14,3 +15,6 @@ You need to have two items on you with the Silk Touch and the Fortune enchants o
 >>>>This also consumes said enchanted items. Be careful not to complete the research with any important enchanted tools/weapons in your inventory.
 
 Applying this to an Advanced Focus (doing this with a Blank Lesser Focus would be pointless) will let you (with touch) fire at a block and break it (with the fortune or silk touch). This does take a little time to recharge, but it's much quicker than mining and only costs a little Vis, so no need for repairs.
+
+![](focus%20effect%20break.jpg)
+
