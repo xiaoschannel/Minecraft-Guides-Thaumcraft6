@@ -23,3 +23,5 @@ This 3 part set of robes when warn will give you:
 <!---
 Maybe the picture could be better
 -->
+
+<center><strong>(wings not included)</strong></center>
