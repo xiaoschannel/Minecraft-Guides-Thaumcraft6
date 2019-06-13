@@ -9,4 +9,5 @@ twittercardoptions: summary
 facebookenable: false
 ---
 
-Your page content goes here.
+# Arcane Infusion
+Arcane Infusion is basically infusing items with different type of Essentia so that we can get more advanced items that are more useful than their non-essentia counter parts.
