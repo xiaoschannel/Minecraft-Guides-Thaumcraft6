@@ -1,6 +1,6 @@
 ---
 title: 'Focus Modifier: Plan'
-media_order: 'full.jpg,surface.jpg'
+media_order: 'full.jpg,surface.jpg,break and full.jpg'
 taxonomy:
     category:
         - docs
@@ -22,3 +22,4 @@ This modifier projects an area where the effect you have chosen (such as Exchang
 
 You can combine this with break and it will give you a way to mine huge chunks out at a time (at the cost of Vis):
 
+![](break%20and%20full.jpg)
