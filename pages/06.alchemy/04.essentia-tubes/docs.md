@@ -1,6 +1,6 @@
 ---
 title: 'Essentia Tubes'
-media_order: 'full crucible.jpg,high flux.jpg,flux rift.jpg,taint spread.jpg,taint blocks.jpg'
+media_order: 'full crucible.jpg,high flux.jpg,flux rift.jpg,taint spread.jpg,taint blocks.jpg,essentia tube page.jpg'
 taxonomy:
     category:
         - docs
@@ -52,4 +52,31 @@ You will pick up a few Vitium Crystals as well. No matter what tool you use to m
 >>> Using an Exchange Focus to switch tainted blocks with dirt is a much faster way of collecting taint than mining it.
 
 Once you have all four of these Phials in your inventory, complete this section. This will unlock a whole load of Essentia Tubes:
+
+![](essentia%20tube%20page.jpg)
+
+All these Tubes and Valves work together with the Alembic and the Smeltery. There is a lot to cover and it's not always easy setting them up to do what you need them to.
+
+Basic tubes can be attached to the Alembic, allowing Essentia to flow through into a Jar with the same Essentia. When attached to a Jar, there will be a certain amount of “suction.” This amount of suction can be determined with the Essentia Resonator (right-click the Tubes).
+
+You can also change Pipes with your Gauntlet (clear the Focus first with Shift+F, or whatever your key binding is). This will detach pipes from other Pipes and Jars. This can be done by sneak+right clicking.
+
+Each Jar can only hold one type of Essentia, and hooking up a whole bunch of pipes to a whole bunch of jars and expecting things to go smoothly is not going to work.
+
+There is a relatively simple way to use pipes to your advantage if you have enough resources. By using Essentia Buffers, Filtered Essentia Tubes, Jars, Void jars and Bellows (these can be found early on under the Atifice tab) you can automate the whole essentia capturing process without having to maintain it and without having to overcomplicate things with other tubes. You will also only need to create one Essentia Smeltery and one Arcane Alembic.
+
+Before we build the system it's important to know what each of these tubes do and what we can do with them:
+
+* Essentia Buffer
+	* These will pull Essentia to them and send them down to any other buffer attached, you can limit which way the Essentia flows by SHIFT-Right clicking with your gauntlet
+* Filtered Essenita Tube
+	* You can set what Essentia can pass through these tubes by right clicking them with a vial of essentia in hand.
+
+The basic idea behind this is as follows:
+
+>>>**We want essentia to go from point A to point B and be dropped off at the correct Jar without getting stuck or clogging the system.**
+
+Please remember you will need to AT LEAST have enough Jars, buffers and Filters as their are type of Essentia (37) and you will also need to have at least one of each Essentia.
+
+First set down your smeltery and alembic, from that run a row of normal tubes and at the end of your tunes add a buffer:
 
