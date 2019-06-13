@@ -1,5 +1,6 @@
 ---
 title: 'Arcane Paving Stones'
+media_order: 'Arcane Paving Stones.jpg'
 taxonomy:
     category:
         - docs
@@ -17,3 +18,7 @@ Unlocking this will unlock two new blocks:
 		* Blue - Turned off with redstone.
 		* Purple - Preventing something from passing through.
 
+![](Arcane%20Paving%20Stones.jpg)
+
+* Paving Stone of Travel
+	* You will run or walk faster while these are under your feet.
