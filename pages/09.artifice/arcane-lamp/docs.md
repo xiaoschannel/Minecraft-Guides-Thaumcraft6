@@ -1,6 +1,5 @@
 ---
 title: 'Arcane Lamp'
-media_order: 'Arcane Lamp.jpg'
 taxonomy:
     category:
         - docs
