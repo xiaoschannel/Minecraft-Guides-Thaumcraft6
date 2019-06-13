@@ -9,4 +9,5 @@ twittercardoptions: summary
 facebookenable: false
 ---
 
-This research is normally hidden and will unlock after you scan dragon’s breath or a lingering potion cloud This medium will leave a cloud below your feet.
+Scanning a dragons Breath or the cloud the Ender Dragon leaves behind will unlock this hidden research. The Cloud medium will lay down a cloud that can damage an enemy or even heal you depending on how you have configured it:
+
