@@ -16,3 +16,4 @@ You will unlock this once you have turned in your copy of The Crimson Rites, thi
 
 Once you complete this research the Eldritch Tab will unlock:
 
+![](Eldritch%20tab.jpg)
