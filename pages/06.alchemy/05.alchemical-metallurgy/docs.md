@@ -1,5 +1,6 @@
 ---
 title: 'Alchemical Metallurgy'
+media_order: 'Alchemical Metallurgy.jpg'
 taxonomy:
     category:
         - docs
@@ -16,3 +17,5 @@ You now know how to make Alchemical Brass. You can also make metals such as Thau
 In the Crucible, using 2 Arcane Pedestals and an iron ingot as the catalyst will net you two Thaumium ingots. Don’t forget to sliver out the remaining Essentia.
 
 Once completed, you can craft Thaumium Blocks, Armor, plates and Tools.
+
+![](Alchemical%20Metallurgy.jpg)
