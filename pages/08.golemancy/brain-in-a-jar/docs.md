@@ -10,3 +10,5 @@ facebookenable: false
 ---
 
 If you examined a red eyed “Angry Zombie” and killed a few for their brains, then you should be able to complete this stage. The Brain in a Jar will suck up nearby Experience. You can extract it by hitting it (right-click). A nice easy way to collect EXP.
+
+![](brain%20in%20a%20jar.jpg)
