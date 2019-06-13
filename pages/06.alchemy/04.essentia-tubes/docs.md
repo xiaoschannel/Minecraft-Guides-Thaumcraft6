@@ -1,6 +1,6 @@
 ---
 title: 'Essentia Tubes'
-media_order: 'full crucible.jpg,high flux.jpg,flux rift.jpg,taint spread.jpg,taint blocks.jpg,essentia tube page.jpg'
+media_order: 'full crucible.jpg,high flux.jpg,flux rift.jpg,taint spread.jpg,taint blocks.jpg,essentia tube page.jpg,smeltery-alembic-tubes-buffer.jpg,buffers and tubes.jpg,tube config.jpg,jar set up.jpg,jars and tubes final look.jpg,buffer config.jpg,void jar added.jpg,essentia alternative.jpg'
 taxonomy:
     category:
         - docs
@@ -76,7 +76,48 @@ The basic idea behind this is as follows:
 
 >>>**We want essentia to go from point A to point B and be dropped off at the correct Jar without getting stuck or clogging the system.**
 
-Please remember you will need to AT LEAST have enough Jars, buffers and Filters as their are type of Essentia (37) and you will also need to have at least one of each Essentia.
+Please remember you will need to **AT LEAST** have enough Jars, buffers and Filters as their are type of Essentia (37) and you will also need to have at least one of each Essentia.
 
 First set down your smeltery and alembic, from that run a row of normal tubes and at the end of your tunes add a buffer:
+
+![](smeltery-alembic-tubes-buffer.jpg)
+
+On top of the first buffer we will need to put a set of bellows, this is needed because when you smelt items the Essentia will not be drawn to the first buffer, we have to help the Essentia along. After this buffer we can add all the other buffers for each Essentia type (37) and off each of these buffers we can add Filtered Tubes:
+
+![](buffers%20and%20tubes.jpg)
+
+These will attach to each other but you can break these links by right clicking with the gauntlet:
+
+![](tube%20config.jpg)
+
+Next you will want to right click each end of the filter with a Phial of essentia, ensure each type of Essentia has its own tube and no more than 1 and under each filter add a jar as well as a void jar (this is your overflow), the pipe that connects the void jar should be a Restricted pipe:
+
+![](jar%20set%20up.jpg)
+
+While doing all this pipes might attach to each other so ensure they are not.
+
+![](jars%20and%20tubes%20final%20look.jpg)
+
+Lastly we have to ensure that the Essentia only flows 1 way, you will need to Shift-Right Click between the buffers, you will see a blue ring and then a red one, we want the red one.
+
+![](buffer%20config.jpg)
+
+Do this for each buffer, this will ensure the essentia is pushed to next buffer until it finds the right buffer with the corresponding Filter for its Essentia.
+
+Now you can feed your Smeltery with as much as you wish without the system clogging up.
+
+![](void%20jar%20added.jpg)
+
+This is just one of many examples of how you setup your essentia transportation and to feel more than free to create something else based on your base/needs
+
+There is a slightly easiest and cheaper but less efficaint way to hook up jars to Alembics using Essentia Valves on each Jar, with pipes going into each Alembic:
+
+![](essentia%20alternative.jpg)
+
+Make sure all the valves are closed. Open only one valve at a time (they turn counter-clockwise to open) to fill Jars with Essentia.
+
+You can go crazy and use loads of materials creating the perfect system, but these pipes are no easy thing to master. One strategy you can do is keep your jars nearby and move them under the pipes as needed rather than spending the resources on creating valves. This may be more of a nuisance, but can hold you over until you replace the pipe system if it isn’t your cup of tea.
+
+
+
 
