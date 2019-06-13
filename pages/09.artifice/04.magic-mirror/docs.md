@@ -1,5 +1,6 @@
 ---
 title: 'Magic Mirror'
+media_order: 'Magic Mirror.jpg'
 taxonomy:
     category:
         - docs
@@ -13,3 +14,6 @@ You need to scan an Enderman in order to complete this stage. These only work in
 
 To link these mirrors, you need to place down your first mirror and then right-click it with the second mirror. You will know these are working when you place down your second mirror and it has a black spot in the middle (of both of them).
 
+![](Magic%20Mirror.jpg)
+
+Whenever items are put through these mirrors, there is a chance there might be a little bit of flux caused.
