@@ -13,6 +13,7 @@ twittershareimg: /getting-started/alchemy/Crucible.jpg
 twittertitle: 'Thaumcraft 6 - A Comprehensive Guide'
 twitterdescription: 'The Thaumcraft mods for Minecraft have been a favourite in the modding scene, and Thaumcraft 6 is still one of the most interesting and entertaining magic mods.'
 facebookenable: false
+facebookimg: /getting-started/thaumonomicon/Thaumonomicon.jpg
 ---
 
 This is the 6th iteration of Thaumcraft from Azanor. The Thaumcraft mods for Minecraft have been a favourite in the modding scene, and Thaumcraft 6 is still one of the most interesting and entertaining magic mods.
