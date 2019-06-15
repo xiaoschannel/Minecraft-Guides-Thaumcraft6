@@ -1,5 +1,5 @@
 ---
-title: 'Thaumcraft 6 - A Comprehensive Guide'
+title: 'Thaumcraft 6'
 taxonomy:
     category:
         - docs
