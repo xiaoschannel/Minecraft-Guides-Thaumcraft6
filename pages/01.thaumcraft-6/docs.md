@@ -8,7 +8,8 @@ visible: true
 googletitle: 'Thaumcraft 6 - A Comprehensive Guide'
 googledesc: 'The Thaumcraft mods for Minecraft have been a favourite in the modding scene, and Thaumcraft 6 is still one of the most interesting and entertaining magic mods.'
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
+twittershareimg: /getting-started/alchemy/Crucible.jpg
 twittertitle: 'Thaumcraft 6 - A Comprehensive Guide'
 facebookenable: false
 ---
