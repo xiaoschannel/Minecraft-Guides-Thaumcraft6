@@ -22,8 +22,8 @@ Thaumaturgy is the capability of a magician to work miracles. A practitioner of 
 Thaumcraft 6 is all about drawing magic from physical objects in the form of Essentia and from the environment in the form of Vis and reshaping it to perform miracles.
 
 **Minecraft Version**: 1.12.2  
-**Curse Link**: https://minecraft.curseforge.com/projects/thaumcraft  
-**Sub Reddit**: https://www.reddit.com/r/Thaumcraft/  
+**Curse Link**: [https://minecraft.curseforge.com/projects/thaumcraft]()  
+**Sub Reddit**: [https://www.reddit.com/r/Thaumcraft/ ]() 
 
 #### Mods Used
 **Thaumcraft**: [6.1.BETA26 ](https://minecraft.curseforge.com/projects/thaumcraft/)  
