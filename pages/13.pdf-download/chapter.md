@@ -1,8 +1,8 @@
 ---
 title: 'PDF Download'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 visible: true
 twitterenable: true
 twittercardoptions: summary
